@@ -1,8 +1,6 @@
-## Welcome! 😁
+## Hey! 😁
 
-I'm currently working on creating a portfolio for the duration of the KKCF program. 
-
-I hope to dual major in Management Information Systems and Design when I enter college.
+My name is Emily, and I'm currently working on creating a portfolio for the duration of the KKCF program. Additionally, I plan to dual major in Management Information Systems and Design upon entering college. I love to draw, paint, and create crafts. I enjoy using Figma to create visuals for logos, websites, etc. 
 
 
 <!--
